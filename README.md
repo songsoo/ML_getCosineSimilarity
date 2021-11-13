@@ -13,4 +13,4 @@ query: query (String)
 
 
 return : The consine similarity of each document number, sorted by cosine similariry (pd.Dataframe)
-<img  src="https://user-images.githubusercontent.com/74779311/141611972-4c506c2a-e04e-4f8f-918f-d58a24f64cab.png"/>
+<img  src="https://user-images.githubusercontent.com/74779311/141614155-f99be856-1edb-4cda-852c-534cb4aaa82b.png"/>
